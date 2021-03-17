@@ -2,8 +2,8 @@
 //  CoinData.swift
 //  ByteCoin
 //
-//  Created by Максим on 23.02.2021.
-//  Copyright © 2021 The App Brewery. All rights reserved.
+//  Created by Maksim on 21/10/2020.
+//  Copyright © 2021 Maksim. All rights reserved.
 //
 
 import Foundation
